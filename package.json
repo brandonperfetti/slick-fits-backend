@@ -73,8 +73,5 @@
   "engines": {
     "node": "14.17.3"
   },
-  "resolutions": {
-    "graphql": "^15.0.0"
-  },
   "repository": "https://github.com/wesbos/advanced-react"
 }
